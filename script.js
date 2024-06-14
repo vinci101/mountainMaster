@@ -36,7 +36,7 @@ function goTown() {
   button2.onclick = goCave;
   button3.onclick = fightDragon;
   text.innerText = "You are in the town square. You see a sign that says \"Store\".";
-}
+} 
 
 function goStore() {
   button1.innerText = "Buy 10 health (10 gold)";
